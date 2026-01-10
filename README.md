@@ -8,7 +8,7 @@
 
 ## Github Pages
 
-https://b-sakai.github.io/bookmeter-chart/
+https://bubo8888.github.io/bookmeter-chart/
 
 ## Requirements
 
